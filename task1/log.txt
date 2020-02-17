@@ -1,0 +1,17 @@
+commit 8b78dc763474e328a2a8f3045cd3f5dd4b2c5e71
+Author: yepif <kkycherr@mail.ru>
+Date:   Mon Feb 17 23:51:26 2020 +0300
+
+    added ./task/status.txt
+
+commit 058d89fe5330ce48a5deefb3c1ff66c741846fe6
+Author: yepif <kkycherr@mail.ru>
+Date:   Mon Feb 17 23:46:20 2020 +0300
+
+    add .gitignore
+
+commit 00b6d5a46b88c725e9db09ad96ad430239ebe6ba
+Author: yepif <kkycherr@mail.ru>
+Date:   Tue Feb 11 10:51:28 2020 +0300
+
+    add .gitignore
